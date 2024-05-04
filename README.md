@@ -21,7 +21,12 @@ This project encompasses a series of meticulously designed tasks, outlined as fo
 
 ### Technologies used:
 Django- Python- HTML- CSS
+
 ![image](https://github.com/AyaTarek95/Songs_Playlist_App/assets/132375842/64f8537e-45c7-4a0c-9aed-5d77a78d3eab)
+![image](https://github.com/AyaTarek95/Songs_Playlist_App/assets/132375842/ba8b79e3-f21c-4db6-a446-099005220c58)
+![image](https://github.com/AyaTarek95/Songs_Playlist_App/assets/132375842/eac1c034-2e49-4dd4-8542-48e71a8b93e3)
+
+
 
 
 ### AUTHOR
